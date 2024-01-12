@@ -37,12 +37,6 @@ To install perpus, follow these steps:
 
 We welcome contributions from the community! If you have any ideas, suggestions, or bug reports, please submit an issue or a pull request.
 
-## Contact
-
-Feel free to visit the [VirTic GitHub repository](https://github.com/Albert1915/perpus) for more information.
-
-Thank you for using VirTic! Enjoy your moviegoing experience!
-
 ## Contributors ✨
 <br>
 <table align="center">
